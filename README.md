@@ -1,2 +1,2 @@
 # Stock-Price-Prediction
-My frist Data Ana;ysis {roject
+My frist Data Ana;ysis Project
